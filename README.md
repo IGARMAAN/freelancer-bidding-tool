@@ -51,7 +51,7 @@ To run the script, you’ll need **Tampermonkey**, a popular browser extension f
 ## Contributing
 This project is open-source. Feel free to **fork, modify, and improve**!  
 
-**GitHub Repository**: [Freelancer Bidding Tool](github.com/armaanux/freelancer-bidding-tool)
+**GitHub Repository**: [Freelancer Bidding Tool](https://github.com/armaanux/freelancer-bidding-tool)
 
 ## License
 MIT License – Free to use and modify.  
