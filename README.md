@@ -24,7 +24,7 @@ To run the script, you’ll need **Tampermonkey**, a popular browser extension f
 ### Step 2: Install the Script
 1. Open Tampermonkey from your browser toolbar.
 2. Click **"Create a new script"**.
-3. Delete the default template and paste the **Freelancer Bidding Tool** script (found in this repository).
+3. Delete the default template and paste the Freelancer Bidding Tool script from the repository, named 'script.user.js'.
 4. Click **"Save"** (or Ctrl + S).
 
 ### Step 3: Enable the Script
